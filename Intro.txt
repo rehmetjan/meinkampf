@@ -1,0 +1,3 @@
+Hi, this is me, a text file.
+
+i am going to write book here :) no kidding... seriously. I downloaded sourcetree, very useful tools for and create a repo i will push it to github, now i don't know how to start, when I finish my book, i will push it here :)
